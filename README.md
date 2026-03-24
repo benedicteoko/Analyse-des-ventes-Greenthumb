@@ -1,41 +1,76 @@
-# Analyse-des-ventes-Greenthumb
-Analyse des performances de ventes et du comportement client à partir de données e-commerce. Création d’un dashboard interactif pour identifier les tendances et proposer des recommandations business.
+# Greenthumb Sales Analysis – France
 
-# 🌱 Greenthumb Sales Dashboard
+**SQL | Google BigQuery | Looker Studio**
 
-## 📊 Project Overview
+Analyse des performances de ventes et du comportement client à partir de données e-commerce.
 
-This project presents a sales analysis dashboard for Greenthumb using Looker Studio.
+---
 
-## 🎯 Objectives
+## Contexte
 
-* Analyze sales performance over time
-* Understand customer behavior
-* Identify high-performing product categories
-* Provide business recommendations
+L’objectif est de comprendre :
 
-## 📈 Key Metrics
+- l’évolution des ventes dans le temps  
+- la répartition des produits par catégorie  
+- le comportement des clients  
+- les opportunités d’amélioration des ventes  
 
-* Total sales: 951,705
-* Number of customers: 3,469
-* Quantity sold: 3.5M
+---
 
-## 📊 Dashboard
+## Outils utilisés
 
-👉 [View the interactive dashboard](https://lookerstudio.google.com/reporting/09d1feae-cd62-42af-a379-c37abe663d06)
+- SQL  
+- Google BigQuery  
+- Looker Studio  
 
-## 💡 Key Insights
+---
 
-* Sales have significantly increased over time
-* Some product categories dominate the offering
-* Sales are spread across many clients with low purchase frequency
+## Indicateurs clés
 
-## 🚀 Recommendations
+- Total ventes : 951 705  
+- Nombre de clients : 3 469  
+- Quantité vendue : 3,5 M  
 
-* Focus marketing efforts on top-performing categories
-* Improve customer retention through loyalty strategies
+---
 
-## 🛠 Tools Used
+## Business Insights
 
-* Looker Studio
-* Data analysis
+- Les ventes augmentent fortement au fil des années  
+- Certaines catégories de produits concentrent une part importante de l’offre  
+- Les ventes sont réparties sur de nombreux clients avec une faible fréquence d’achat  
+- Les produits Outdoor sont légèrement plus nombreux que les produits Indoor  
+
+---
+
+## Dashboard
+
+Le dashboard permet de visualiser :
+
+- l’évolution des ventes dans le temps  
+- les ventes par client  
+- la répartition des produits par catégorie  
+- les types de clients  
+- les lancements de produits  
+
+---
+
+## Dashboard interactif
+
+Voir le tableau de bord interactif :
+
+[Dashboard Looker Studio](https://lookerstudio.google.com/reporting/09d1feae-cd62-42af-a379-c37abe663d06)
+
+---
+
+## Recommandations
+
+- Se concentrer sur les catégories les plus performantes afin d’optimiser les ventes  
+- Mettre en place des actions de fidélisation pour augmenter la fréquence d’achat  
+
+---
+
+## Insights principaux
+
+- Forte croissance des ventes dans le temps  
+- Concentration de l’offre sur certaines catégories  
+- Potentiel important de fidélisation client  
